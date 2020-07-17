@@ -1,0 +1,173 @@
+
+bee.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+banner
+  rotate: false
+  xy: 894, 235
+  size: 515, 469
+  orig: 515, 469
+  offset: 0, 0
+  index: -1
+bee_sign
+  rotate: false
+  xy: 2, 6
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 120
+  size: 296, 1538
+  orig: 296, 1538
+  offset: 0, 0
+  index: -1
+bike
+  rotate: false
+  xy: 2, 1660
+  size: 2000, 192
+  orig: 2000, 192
+  offset: 0, 0
+  index: -1
+bike2
+  rotate: false
+  xy: 2, 1854
+  size: 2000, 192
+  orig: 2000, 192
+  offset: 0, 0
+  index: -1
+bottom_ground
+  rotate: false
+  xy: 1860, 131
+  size: 160, 260
+  orig: 160, 260
+  offset: 0, 0
+  index: -1
+chim_to
+  rotate: false
+  xy: 132, 8
+  size: 161, 110
+  orig: 161, 110
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 752, 706
+  size: 592, 952
+  orig: 592, 952
+  offset: 0, 0
+  index: -1
+color_fill
+  rotate: false
+  xy: 300, 683
+  size: 450, 975
+  orig: 450, 975
+  offset: 0, 0
+  index: -1
+cot_dien
+  rotate: false
+  xy: 300, 177
+  size: 592, 504
+  orig: 592, 504
+  offset: 0, 0
+  index: -1
+dan_ong
+  rotate: false
+  xy: 902, 2
+  size: 602, 231
+  orig: 602, 231
+  offset: 0, 0
+  index: 1
+dan_ong
+  rotate: false
+  xy: 1506, 84
+  size: 352, 307
+  orig: 352, 307
+  offset: 0, 0
+  index: 2
+ground
+  rotate: false
+  xy: 295, 46
+  size: 160, 72
+  orig: 160, 72
+  offset: 0, 0
+  index: -1
+house
+  rotate: false
+  xy: 1411, 393
+  size: 592, 384
+  orig: 592, 384
+  offset: 0, 0
+  index: -1
+score_board
+  rotate: false
+  xy: 1346, 779
+  size: 684, 879
+  orig: 684, 879
+  offset: 0, 0
+  index: -1
+start_btn
+  rotate: false
+  xy: 457, 17
+  size: 443, 158
+  orig: 443, 158
+  offset: 0, 0
+  index: -1
+
+bee2.png
+size: 1024,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cay
+  rotate: false
+  xy: 380, 1674
+  size: 592, 184
+  orig: 592, 184
+  offset: 0, 0
+  index: -1
+main
+  rotate: false
+  xy: 380, 1216
+  size: 176, 456
+  orig: 176, 456
+  offset: 0, 0
+  index: -1
+pipe
+  rotate: false
+  xy: 2, 162
+  size: 376, 1696
+  orig: 376, 1696
+  offset: 0, 0
+  index: -1
+replay_btn
+  rotate: false
+  xy: 2, 2
+  size: 276, 158
+  orig: 276, 158
+  offset: 0, 0
+  index: -1
+start_btn
+  rotate: false
+  xy: 558, 1514
+  size: 442, 158
+  orig: 442, 158
+  offset: 0, 0
+  index: 2
+xe_may
+  rotate: false
+  xy: 558, 1320
+  size: 208, 192
+  orig: 208, 192
+  offset: 0, 0
+  index: 2
+xe_may
+  rotate: false
+  xy: 768, 1320
+  size: 200, 192
+  orig: 200, 192
+  offset: 0, 0
+  index: 1

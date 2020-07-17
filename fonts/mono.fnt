@@ -1,0 +1,17 @@
+info face="VCR OSD Mono" size=100 bold=1 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,1,3,1 spacing=-1,-1
+common lineHeight=100 base=93 scaleW=512 scaleH=512 pages=1 packed=0
+page id=0 file="mono.png"
+chars count=12
+char id=0       x=0    y=0    width=0    height=0    xoffset=-1   yoffset=0    xadvance=1    page=0    chnl=0 
+char id=32      x=0    y=0    width=0    height=0    xoffset=-1   yoffset=0    xadvance=66   page=0    chnl=0 
+char id=48      x=0    y=0    width=55   height=72   xoffset=6    yoffset=19   xadvance=66   page=0    chnl=0 
+char id=49      x=55   y=0    width=35   height=72   xoffset=15   yoffset=19   xadvance=66   page=0    chnl=0 
+char id=50      x=90   y=0    width=56   height=72   xoffset=5    yoffset=19   xadvance=66   page=0    chnl=0 
+char id=51      x=146  y=0    width=55   height=72   xoffset=6    yoffset=19   xadvance=66   page=0    chnl=0 
+char id=52      x=201  y=0    width=55   height=72   xoffset=5    yoffset=19   xadvance=66   page=0    chnl=0 
+char id=53      x=256  y=0    width=55   height=72   xoffset=6    yoffset=19   xadvance=66   page=0    chnl=0 
+char id=54      x=311  y=0    width=55   height=72   xoffset=6    yoffset=19   xadvance=66   page=0    chnl=0 
+char id=55      x=366  y=0    width=56   height=72   xoffset=5    yoffset=19   xadvance=66   page=0    chnl=0 
+char id=56      x=422  y=0    width=55   height=72   xoffset=6    yoffset=19   xadvance=66   page=0    chnl=0 
+char id=57      x=0    y=72   width=55   height=72   xoffset=6    yoffset=19   xadvance=66   page=0    chnl=0 
+kernings count=0
